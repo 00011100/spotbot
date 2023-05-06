@@ -1,5 +1,5 @@
 # Old Code Release
-This code was previously a private project that has been scrubbed and released publicly. This code is very old, and may no longer work. 
+This code was previously a private project that has been scrubbed and released publicly. This code is very old, poorly written and may no longer work. 
 
 # Spotbot
 Allow your chat to queue spotify songs.
